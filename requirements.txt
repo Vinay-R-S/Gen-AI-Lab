@@ -1,0 +1,10 @@
+transformers
+datasets
+sentence-transformers
+fastai[transformers]
+torch
+torchvision
+torchaudio
+kaggle
+tokenizers
+ipython
