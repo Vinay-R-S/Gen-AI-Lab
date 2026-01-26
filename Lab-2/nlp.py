@@ -256,8 +256,7 @@ if __name__ == "__main__":
     SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
     
     # Uncomment the actions you want to run locally or in Colab
-
-    install_and_verify_packages()
+    # install_and_verify_packages()
     
     # Look for kaggle.json in the script directory
     kaggle_json = os.path.join(SCRIPT_DIR, 'kaggle.json')
